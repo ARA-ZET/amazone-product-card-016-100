@@ -1,0 +1,17 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.component-overlay {
+  background-color: #ffffff;
+  padding: 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.component {
+  margin: 6rem auto;
+  width: 70%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
